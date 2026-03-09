@@ -1,3 +1,7 @@
+### Laitteisto
+
+Macbook Pro M2 2023, jossa on MacOS Tahoe 26.2. Pyöritän Kali Linuxia VirtualBoxissa, jonka versio on 7.2.4. Kali Linux on taas ARM 64-bit. Kali Linuxissa on 8GB ram:ia, 2CPU corea pyörittämässä sitä ja 35GB tallennustilaa.
+
 #### 1. Convert hex to base64
 
 
